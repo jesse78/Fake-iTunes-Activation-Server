@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>4B6869AC-8701-4CCF-9E20-9369589B9AF5</string>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BuildVersion</key>
+	<string>12A4265u</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRU0xTWpSQ056UTNMVGc1TmtFdE5EUTJNeTFCTlVGQgpM
+	VFkyTnpVeE0wVXdNMEUzTURFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQW1MMTJNWGRGcWduc1U4QVllL1RMOTAzdApseFlmaXdvaUFS
+	cU5wSFk1MEpyTVFDYXZtOTVxZG44dTZVZUd6MHVROE1aYmRCWS9SeGpMc1ZTWWswRXpC
+	Zmw1CjJLU1ZEUGlGWjNYSTJlUVAyTE9NejdlZm55eHNHSGJ6MVpUbHFNanREZjRaOXpy
+	WUVRd1hBNUZpUjRCdU9uQWcKNC8rSnJjSFU2L2tJalM0QThsVUNBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFHSHZ1N1dDN2ZxUQpwYVB4ZzB4WEwyS3RidTd5SjRh
+	eW9jdlozeXBZYWpTTG9BbjNLUGFVRlhOek5TQlo1WWRDWmRTTDJ6MnA3RkNzCmtyc2NE
+	VTYxeDhpU2FzZVlNemU1aHdRT2hiMWlpdFcwcW0xL1RxSWtQazc0WUU2UHU5UDZZaWZo
+	YkZlazd2dXAKNzlmczBDL0s1ZW9KdUwvQnB6RmpjRDFNK055ZjhxUVoKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPod</string>
+	<key>DeviceVariant</key>
+	<string>A</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>ModelNumber</key>
+	<string>MC903</string>
+	<key>ProductType</key>
+	<string>iPod5,1</string>
+	<key>ProductVersion</key>
+	<string>8.0</string>
+	<key>RegionCode</key>
+	<string>C</string>
+	<key>RegionInfo</key>
+	<string>C/A</string>
+	<key>ReleaseType</key>
+	<string>Beta</string>
+	<key>SerialNumber</key>
+	<string>CCQLNCMSDJFD</string>
+	<key>UniqueChipID</key>
+	<integer>1318187711985</integer>
+	<key>UniqueDeviceID</key>
+	<string>beb5b905e812a67b4bc4e08c539c056f6bfdfda4</string>
+</dict>
+</plist>

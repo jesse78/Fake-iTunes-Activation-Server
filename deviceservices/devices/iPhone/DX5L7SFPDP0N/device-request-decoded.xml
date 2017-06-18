@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>C438AF53-61A5-4729-8C47-D2BA02B0175D</string>
+	<key>ActivationRequiresActivationTicket</key>
+	<true/>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BasebandMasterKeyHash</key>
+	<string>4336D864981B65E4CDDB22FB66D5EF607B5E5E7E</string>
+	<key>BasebandThumbprint</key>
+	<string>7138790BDE23A5C6443D05DE8436BC547A5CCFA3</string>
+	<key>BuildVersion</key>
+	<string>11D201</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRFJFT0RRM056TkRMVFpCTWpBdE5EVkNNQzFCUVRkQwpM
+	VU16UTBZek9UVXpOemt3UWpFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQTlEbUhuODZnWkFNbVA4SzExYU9PU3RnawpXdUtxU21Db1Vx
+	M3cvRjB3MFFoUTQ5czdhSGRRUFNPWXJaVEd5d0YrUE9WVEtDQ1JoeFhmR0RTUXZkNGNV
+	Q0RwCjBWYnVTWk1jMlVMN3lSRWZiTlJLUWdvRW1tZlkrd0poanNjc1lSMEswdE42aHMx
+	Q0ZhZWc5M3NLbVJ5ZDhkT0cKOGQ2ZmxwT1poSEwyL2JKbUdqTUNBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFFcGwybWw2YzVGSgpSVVdnZHdMMmt0bGM5ai9xR3Ux
+	Y2h1U2pHVHBwVG52UTh2QXU1YS9Id05LT3dWZndKdWt3MjltWm5ZcHJ6VHZmCkpqell3
+	ZzJoS0VwbUN2K29MK1A2RXQzSWFHZVdEUmFJUnhuOHFSaVNZS2lnMFFVTU4yOVhzVmVB
+	WmlrRUR2MDIKK3hKWnRLdnFRRXJ3MnBzdi96OUdVVWwxMVVoUG43U3YKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPhone</string>
+	<key>DeviceVariant</key>
+	<string>B</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>IntegratedCircuitCardIdentity</key>
+	<string>89630313165211961470</string>
+	<key>InternationalMobileEquipmentIdentity</key>
+	<string>013666005277424</string>
+	<key>InternationalMobileSubscriberIdentity</key>
+	<string>515032103827501</string>
+	<key>ModelNumber</key>
+	<string>MD128</string>
+	<key>ProductType</key>
+	<string>iPhone3,2</string>
+	<key>ProductVersion</key>
+	<string>7.1.1</string>
+	<key>RegionCode</key>
+	<string>PP</string>
+	<key>RegionInfo</key>
+	<string>PP/A</string>
+	<key>SIMStatus</key>
+	<string>kCTSIMSupportSIMStatusOperatorLocked</string>
+	<key>SerialNumber</key>
+	<string>DX5L7SFPDP0N</string>
+	<key>SupportsPostponement</key>
+	<true/>
+	<key>UniqueChipID</key>
+	<integer>4385867941195</integer>
+	<key>UniqueDeviceID</key>
+	<string>058fc27569c353c7fdeedc808fab48e6fb0783b7</string>
+</dict>
+</plist>

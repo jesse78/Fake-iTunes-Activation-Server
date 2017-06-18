@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>574C28DB-6867-4654-87DA-28B5D595568C</string>
+	<key>ActivationRequiresActivationTicket</key>
+	<true/>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BasebandMasterKeyHash</key>
+	<string>4336D864981B65E4CDDB22FB66D5EF607B5E5E7E</string>
+	<key>BasebandThumbprint</key>
+	<string>6D8E6078815B4728040FED759B69333308F08B36</string>
+	<key>BuildVersion</key>
+	<string>11D201</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKREZDTVRSRE5UWTFMVVE0TVVVdE5ETkJSUzA0UWpRMQpM
+	VEV3UTBJeU5qTkRSalUyTnpFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQXJQRi83bkFDZXZRM3REUWV1V2xJT1BoRwpJenQ4dVord0Fh
+	dGZzdWVBc3ljcGUxanp5V1pOUDFmb0pnMmhrL0oyQ01SczBqS2RMWlBaUXFTSWhTMzQ0
+	N04zCmNlUkE0blpEQjJhZ01ZUVFMQ05QUXhkcmg3TnpmZkw0eGR3dE5TSnJqQnhsNkpJ
+	SW5DOFpHQUdTSDY0K1FidWgKbzJDT0FzRFlXQTFGcEdPUW1DY0NBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFKNWdQa1FwcUVkZQpKLzNveXhDUytnaGtML1VZUXdI
+	VldlK1dBdnViODdqdTU1cTlobFpRbnFsMUNONm9xNmVidENQcURwTUkyNWt4CjRwMmFs
+	YzdYWG9UaDVhVHc3M2lrOHlQc1c5RmJNMk90ZXh5MUxETkcwNTB6WFFDZkc5MEJ6bXJX
+	S0J6NFJWOHcKblF1VXIzNGtiS1dvaEwzTjI1SnpXMzZ0b0JIbk1HZjMKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPad</string>
+	<key>DeviceVariant</key>
+	<string>A</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>InternationalMobileEquipmentIdentity</key>
+	<string>012927009003096</string>
+	<key>ModelNumber</key>
+	<string>MC982</string>
+	<key>ProductType</key>
+	<string>iPad2,2</string>
+	<key>ProductVersion</key>
+	<string>7.1.1</string>
+	<key>RegionCode</key>
+	<string>FD</string>
+	<key>RegionInfo</key>
+	<string>FD/A</string>
+	<key>SIMStatus</key>
+	<string>kCTSIMSupportSIMStatusNotInserted</string>
+	<key>SerialNumber</key>
+	<string>DKVJ10R4DKNV</string>
+	<key>SupportsPostponement</key>
+	<true/>
+	<key>UniqueChipID</key>
+	<integer>1812477281102</integer>
+	<key>UniqueDeviceID</key>
+	<string>866dac613a60d25fd22769dcc77bf3756ee915d3</string>
+</dict>
+</plist>

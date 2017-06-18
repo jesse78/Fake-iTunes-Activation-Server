@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>D7BBB78C-A993-4099-9680-DE453F0C1C42</string>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BuildVersion</key>
+	<string>11D201</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRUU0TnpVMlJqbEJMVGMzUVVNdE5FWXlOQzA0UXprMwpM
+	VFZFUlRZeE9VRkVNRVl4UmpFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQXNkVkMyNW1XTTc2bUNrOTlmckhZazNyNworaUFkUC9PSkNN
+	aEFqTmRUTHFWdllyZEY1andSd3pleG9MMlpEMWd3NGNBbDcyK2ZBcmtGdU9wUFFGU1Jo
+	b3RXCkFZcFIxM0FRSG9pdDY0TGNrNDdLeWNCejZPMWNoRUdHN3FXVXEzb3EzK1NHVnpq
+	SExCdEVGK21YZ1d4cTQwK3gKdVNvWllCc0M3S2w2eDNyYUJVY0NBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFIV0Njdm1WU3NCQgpDenkwNzhkWjU4azBMdGtFVURt
+	NWt2N2FOUmw3TWJ0UElIbldWa3JGd01JOW5RNFBsWkZHdVBIenZXYmUxdW9BCmN3SE1z
+	Ymh3c2pISW9XbGpVbWMxNXhYWFBNYk9SdFFDMnh2QTNzeTRYRlRHaTBpNkJsWWY0MS82
+	ek9mTExXSGsKUlZVMzJ0VTFYYTkrZG1TUDVCTWV5TEdVZ1NBaW43MDcKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPod</string>
+	<key>DeviceVariant</key>
+	<string>A</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>ModelNumber</key>
+	<string>MD723</string>
+	<key>ProductType</key>
+	<string>iPod5,1</string>
+	<key>ProductVersion</key>
+	<string>7.1.1</string>
+	<key>RegionCode</key>
+	<string>E</string>
+	<key>RegionInfo</key>
+	<string>E/A</string>
+	<key>SerialNumber</key>
+	<string>C3LJPMNSF4K4</string>
+	<key>UniqueChipID</key>
+	<integer>406261693871</integer>
+	<key>UniqueDeviceID</key>
+	<string>c8819ae133e76efbf3ee652eb40a855f1a945a87</string>
+</dict>
+</plist>

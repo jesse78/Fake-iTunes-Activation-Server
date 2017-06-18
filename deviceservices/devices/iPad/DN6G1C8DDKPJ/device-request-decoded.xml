@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>82FF60DC-C066-4F23-9099-3DD3FE34D6B2</string>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BuildVersion</key>
+	<string>11D201</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRVE1TXpWRU1qTTRMVEZDTURBdE5EVXdOaTFDT0VFegpM
+	VFZFTkRWRU5UWTFPVVE0TVRFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQXhVYi9LT1J0WGMzVFZtWitQd1JZK1hBNwpscGtaZ3BuOERR
+	TFBnQXNqRXcreUJ5T01id1dOVnpDVjFwYkkzZlVNM21iTnNEQUVmMDY4dXNXb2g0RWZJ
+	ZEZSCkk0YlJoNFA4TDNGNndyQ0dFaXd0ZmsvRUI0VVdVSWo3bitjZWhERkdwK3dDVC9a
+	bUpRUlloRzR3WjE5WmYwY2oKR0dFOCtHQi94enJhZ282Wk9OOENBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFDT0ZScUpEVkdHdAo3QnM3MVhQcVhXVmlhMlFseUZa
+	SUg0TE5wUG5RdlE4a1ZhSHkzTmpNR1FnSDVMSktnQVI1WHV2Ri9nR1lWWmRQCmlHdzU1
+	Q2pSbUhPMDgvb01hSDEvK2xlNHBCT01BNUVhRnBLWGtPdmZ4dlRBVkdNenRLdjBsQ2Jm
+	NnB3RHQxT0gKTW93VkNETkZHMnVsZ1VpV1RGSys3Um5JV2QrR0hoaEgKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPad</string>
+	<key>DeviceVariant</key>
+	<string>A</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>ModelNumber</key>
+	<string>MC980</string>
+	<key>ProductType</key>
+	<string>iPad2,1</string>
+	<key>ProductVersion</key>
+	<string>7.1.1</string>
+	<key>RegionCode</key>
+	<string>NF</string>
+	<key>RegionInfo</key>
+	<string>NF/A</string>
+	<key>SerialNumber</key>
+	<string>DN6G1C8DDKPJ</string>
+	<key>UniqueChipID</key>
+	<integer>3584033926605</integer>
+	<key>UniqueDeviceID</key>
+	<string>00054a805a45e7fa72364157632f13d579cff333</string>
+</dict>
+</plist>

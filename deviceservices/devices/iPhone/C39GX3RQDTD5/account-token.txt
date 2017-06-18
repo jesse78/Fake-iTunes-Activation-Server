@@ -1,0 +1,9 @@
+{
+	"InternationalMobileEquipmentIdentity" = "013035002594845";
+	"ActivityURL" = "https://albert.apple.com/deviceservices/activity";
+	"ActivationRandomness" = "3EEA1CAE-51D3-4A69-87A2-11AFFF28456F";
+	"UniqueDeviceID" = "c7cb6905022bf6e79eb11eceedc66836efac7ca7";
+	"CertificateURL" = "https://albert.apple.com/deviceservices/certifyMe";
+	"PhoneNumberNotificationURL" = "https://albert.apple.com/deviceservices/phoneHome";
+	"WildcardTicket" = "MIIBjQIBATALBgkqhkiG9w0BAQUxWJ8/BCKk0xOfQAThAFoAn0sUtxdNFcSWYYyas2EYCoQxj+C8PmGfh20HATAzAJeJVp+XPQwAAAAA7u7u7u7u7u+flz4EAAAAAJ+XPwQBAAAAn5dABAAAAAAEgYCjcyXBFh5+Fbl9fkS6JU8MqLAmOGxS3yMWtUcmzR1oJGnraUuh/DQt5+Cray3qmjBbuU0H8w1GdZ1rjvdwjiYKO+4MjTYgCXPb68eF6MxnDEeG7g/ay+NTkhMOZo58XDvgC97kq5qOTR3a7KqyRpp4//p8VwBIn6MphLMpFoNtJ6OBnTALBgkqhkiG9w0BAQEDgY0AMIGJAoGBAO06P2TR6CCcwVIGNO9+L7IJfgAsQ0Pn+Krr5kqzwLYAxDUmcGlax16RfnESgQAapA2tNGHBDcdnbUtbbhyygzZ9czGS2mUaYivVHojDzWS+ppYNdgVi8FY5RThhA/FOqX18DsOg/xQg0YL8hgZ+8LMPLBGuwHZWJjBxppL8IDj9AgMBAAE=\n";
+}

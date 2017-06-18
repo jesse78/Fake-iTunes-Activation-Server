@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>083C9A6C-576A-4186-B467-2AE1A10466AD</string>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BuildVersion</key>
+	<string>11D201</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRVU1T1RCRk9UUXlMVVpEUkRBdE5FTkRNaTFCTjBSRApM
+	VUU1TlRFek5rRTNOMEZGTmpFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQXUyS3p5RUZrZ2pBcmdPNUNsODBoYnYxTwozWXMxbUtRVVgw
+	UTkzcmlvOWk4SkxWRFkyT24yUldDRStwUWNPRGptdEorQlhrZFBWNDJCcHFvOVZvV3pp
+	VlR5CnV2NUdsK2NkS1dIcmZIek92K1k4MStiN1ovbzRUMjgyVzFHT0hTOFNNL1lwS2d2
+	WkE2OEJnQXNiUjhhNWEzU0wKUGhNc09idU1LWkRMR0sramY2a0NBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFBd3RwZjA3bXlTQwp2bm9MOU5STjJSOUJuQmZMNTM1
+	T0RQbzNHVDg2ak5YcVp6enZHS0lGNktkYzlDOS9vcFVaSkMwZ0p0eERZYWpQCjR3NTND
+	eW8zVlVId2VuL0w4L0xZR0lCbHdBbVQ2UW51SlFRcEFVNGRLS0gxRThxcktOQlNFOStE
+	U2hXR2Z6dU4KWHhhVEFHSzlQTVFrVFNIYWx1a1BnMjJkNy9DcEJueVEKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPad</string>
+	<key>DeviceVariant</key>
+	<string>A</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>ModelNumber</key>
+	<string>MD785</string>
+	<key>ProductType</key>
+	<string>iPad4,1</string>
+	<key>ProductVersion</key>
+	<string>7.1.1</string>
+	<key>RegionCode</key>
+	<string>LL</string>
+	<key>RegionInfo</key>
+	<string>LL/A</string>
+	<key>RegulatoryModelNumber</key>
+	<string>A1474</string>
+	<key>SerialNumber</key>
+	<string>DMPLPGF2FK10</string>
+	<key>UniqueChipID</key>
+	<integer>3522647653156</integer>
+	<key>UniqueDeviceID</key>
+	<string>349ffc6737edfc68b32ba8966fbbb964d9d034c8</string>
+</dict>
+</plist>

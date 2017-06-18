@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>A7D4D9CE-A187-467E-9B72-6680C4E4510F</string>
+	<key>ActivationRequiresActivationTicket</key>
+	<true/>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BasebandMasterKeyHash</key>
+	<string>E93B43F3EF6DAED516A2D4B9BAD5494DC81E92D3</string>
+	<key>BasebandThumbprint</key>
+	<string>AD117BEDD211E8A0A62CDFFC7833CE7235AFC31B</string>
+	<key>BuildVersion</key>
+	<string>8C148</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnd6Q0NBU3dDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRFUxTURZeE1URkNMVVUwTlRNdE5FSTJSUzFDTkRKRgpM
+	VGMyUmpKQlFqSkJOa1E1T1RFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm5qQU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpBQXdnWWdDZ1lCNGpsUG5hdVowNXptRXlkeDdyR1JIck5DUQpIK2tlb1JrdXA0
+	Z0tOaFVBdENJVk9PaFVBTzlaOXhwNWhBVmRJTWkrYXlCSFNKUEh6eDJQTTRtODFCdWxw
+	cWgrCmRLcFBLQ3dST0RkZzJwWlF2MFNURHJOMWpmbkVkMmtPM0loMmZUaVZRTVdzOG10
+	WGN1VzNPTTF1T1ozUlhwMGsKSHlucC9MVFVadnNhd0owd253SURBUUFCb0FBd0RRWUpL
+	b1pJaHZjTkFRRUZCUUFEZ1lFQU9JRkwzYmozb1ZPTQpKWHRMVEU4bWtxOGdHV3VWQjQ0
+	MW5MNlJHOHhsbi9iQUJuTjhJakFYam1FOHpFaFBsSFlGdnJmWTF4L2RGM201ClhLZW9n
+	QXE5NUJOU3pOalIvSEh3VWszSUxXUlZBRTM5dnh6SGNmcHZUa0ExOTVsbDUvcmQwanhh
+	RGlrYmRJQlMKdEg5QUdxbkRuMmFnRHBEOE90aG9aMkI2N01XWTdSZz0KLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPhone</string>
+	<key>IntegratedCircuitCardIdentity</key>
+	<string>8939993090031883078</string>
+	<key>InternationalMobileEquipmentIdentity</key>
+	<string>011613007214536</string>
+	<key>InternationalMobileSubscriberIdentity</key>
+	<string>222995102759049</string>
+	<key>ModelNumber</key>
+	<string>MB489</string>
+	<key>ProductType</key>
+	<string>iPhone1,2</string>
+	<key>ProductVersion</key>
+	<string>4.2.1</string>
+	<key>SIMStatus</key>
+	<string>kCTSIMSupportSIMStatusReady</string>
+	<key>SerialNumber</key>
+	<string>87829RFSY7H</string>
+	<key>SupportsPostponement</key>
+	<true/>
+	<key>UniqueChipID</key>
+	<integer>3361551483895</integer>
+	<key>UniqueDeviceID</key>
+	<string>717336d451d896df9ccf5ac4077581a6bcd3757f</string>
+</dict>
+</plist>

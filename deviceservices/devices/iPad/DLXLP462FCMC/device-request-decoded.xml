@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>C2DEEE57-7CFD-481F-AA7A-169A1B4B60F1</string>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BuildVersion</key>
+	<string>11D201</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRGs0T0RZeE5UVkJMVFkxTXpFdE5FRTFNQzA1T0RZMQpM
+	VGhGUmtNMk1FVTJRek0zTkRFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQW5WeWV5ayttUnNTYTdwc0hOQThpZXd4bgppeFZMMEJ6R3RT
+	YnY0TVgyK3p3a1VrWG5hd2d6QVorWTV5SW1seVpWS1VDVElUdzVHS0NaZzJISjFJUTVY
+	Z3BhCmY3aXhndjY5amZ5UlhXajBjSnF1ZU11cTUwQmFHTDBpSnQzYVVXU1llK09HckZX
+	ZmlsbWxRUjF3UzRRNm82U0oKVGNwbk13ckZWMVdTYjVQK1ZaTUNBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFKUVZjN0k4YTI1UAoyZWJ6dWlIYjFYNURRUlBBeU5L
+	UE9OTWxFb0hEVGdHd2hHcDZOamJQTnE3eUF5QVF2V2YrcTBwblBpN3hnSWpVCnNRbzMr
+	dGRtRUdDeWxDVDlTL21KVzVoZTZlaFdGOFBxMWxIaU0zZCtnUEkyd3o2SzVDZi9wa3gz
+	dVZtZEZ1Y1MKMG5sczhDMEI5V2V2TkZwQW9qVlgzd3M2MzZFM1padVkKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPad</string>
+	<key>DeviceVariant</key>
+	<string>A</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>ModelNumber</key>
+	<string>ME281</string>
+	<key>ProductType</key>
+	<string>iPad4,4</string>
+	<key>ProductVersion</key>
+	<string>7.1.1</string>
+	<key>RegionCode</key>
+	<string>LL</string>
+	<key>RegionInfo</key>
+	<string>LL/A</string>
+	<key>RegulatoryModelNumber</key>
+	<string>A1489</string>
+	<key>SerialNumber</key>
+	<string>DLXLP462FCMC</string>
+	<key>UniqueChipID</key>
+	<integer>6549971966608</integer>
+	<key>UniqueDeviceID</key>
+	<string>24a5d88aafa80e264fc4f9f913e37aad4d060fd2</string>
+</dict>
+</plist>

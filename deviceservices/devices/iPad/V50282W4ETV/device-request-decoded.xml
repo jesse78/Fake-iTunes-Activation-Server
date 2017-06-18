@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>4A4CC7C1-6196-46F0-8CCA-1A96CD9E4B0D</string>
+	<key>ActivationRequiresActivationTicket</key>
+	<true/>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BasebandMasterKeyHash</key>
+	<string>UNAVAILABLE</string>
+	<key>BasebandThumbprint</key>
+	<string>UNAVAILABLE</string>
+	<key>BuildVersion</key>
+	<string>9B206</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRFZDTVVJMk9UUTJMVVkwUmpndE5EZENSQzFCTXpJNQpM
+	VUkxUVVZd1JUazRSVGMzTXpFTE1Ba0dBMVVFQmhNQ1ZWTXhDekFKQmdOVkJBZ1RBa05C
+	TVJJd0VBWURWUVFICkV3bERkWEJsY25ScGJtOHhFekFSQmdOVkJBb1RDa0Z3Y0d4bElF
+	bHVZeTR4RHpBTkJnTlZCQXNUQm1sUWFHOXUKWlRDQm56QU5CZ2txaGtpRzl3MEJBUUVG
+	QUFPQmpRQXdnWWtDZ1lFQXVwZmVMek45cnluYjVtTWMzVW1RTVovYgpHZVhqR3pXcXNM
+	OFpSZ2t6UnBGZ2tTc3hZN0RPK2pRNFlobVFJZlpTZEEzMytQRmt2dG1oWTYwbEI4V2dv
+	ZVdzCnBicmZFR1ZqclB1RU5UM0VrL09CaFlkamVQWlp3dTc0WXJrVmVKU3JkZkZhMG9u
+	dFpzTFBIY09WaUJrRzdQQ04KSUc1emV5SXFKQWY3UXIvYndPc0NBd0VBQWFBQU1BMEdD
+	U3FHU0liM0RRRUJCUVVBQTRHQkFJTTArckhQc3djcQprSkdSK3I4Ri9FK0krTGFWc1ZO
+	M0c3TkZzdDd3ZDRrVWxxQkw0RERWK2lJSVZmZFdpbGdzUHNpSG8yMHN4eStyCnA2VDZM
+	NWRLUEZVb08yTDZGaXI5YUtaUTlpSHYwZVAyVFNncVRIbFRuRWxibVR5K05rRUJUNmx0
+	NmVpSlNwVDQKOTdtZzhuVWRlQnlVd2dRMkxndTByMHcxMVlHOVZzVEEKLS0tLS1FTkQg
+	Q0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPad</string>
+	<key>ModelNumber</key>
+	<string>MC497</string>
+	<key>ProductType</key>
+	<string>iPad1,1</string>
+	<key>ProductVersion</key>
+	<string>5.1.1</string>
+	<key>SIMStatus</key>
+	<string>kCTSIMSupportSIMStatusNotReady</string>
+	<key>SerialNumber</key>
+	<string>V50282W4ETV</string>
+	<key>SupportsPostponement</key>
+	<true/>
+	<key>UniqueChipID</key>
+	<integer>2327169340685</integer>
+	<key>UniqueDeviceID</key>
+	<string>ffffffffffffffffffffffffffffffffffffffff</string>
+</dict>
+</plist>
